@@ -1,0 +1,43 @@
+Output:
+
+4 in a row Game 
+Choosing a column you must connect 4 spot in a row to win (vertical, horizontal or diagonal), 
+Let's get started
+Please, type your full name: 
+brbr
+type your age (over 12 and under 100): 
+32
+and now, a valid e-mail (must have '@' and '.'): 
+uhdf@gmail.com
+Player {name=brbr, age=32, email=uhdf@gmail.com}
+Scores {Player=0, Computer=0, Draws=0}
+Type Number 1: short game. Number 2: long game. Number 3: Quit the game.
+2
+   1     2     3     4     5     6     7     8     9     10  
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+brbr, pick a column 
+1
+Computer has picked column: 4
+   1     2     3     4     5     6     7     8     9     10  
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|     |     |     |     |     |     |     |     |     |      |
+|  P  |     |     |  C  |     |     |     |     |     |      |
+brbr, pick a column 
+2
+Computer has picked column: 4
